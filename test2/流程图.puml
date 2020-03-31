@@ -1,0 +1,15 @@
+@startuml
+
+:读者申请借书;
+if (读者取消申请) then (yes)
+  :退出系统;
+else (no)
+  :审核读者申请;
+    if (读者是否违约？) then (yes)
+         :拒绝申请;
+       else (no)
+         :同意借书;
+       endif
+endif
+:退出系统;
+@enduml

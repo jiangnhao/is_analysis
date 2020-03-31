@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="442.5px" preserveAspectRatio="none"
+     style="width:385px;height:442px;" version="1.1" viewBox="0 0 385 442" width="385px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1xwy73inasw0b" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="115" x="96.5625" y="12.5"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="90"
+              x="109.0625" y="42.1899">读者申请借书
+        </text>
+        <polygon fill="#FEFECE" filter="url(#f1xwy73inasw0b)"
+                 points="112.8125,82.9858,195.3125,82.9858,210.3125,97.9858,195.3125,112.9858,112.8125,112.9858,97.8125,97.9858,112.8125,82.9858"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="112.8125" y="104.3539">读者取消申请
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="22.5" x="75.3125" y="94.9646">yes
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="15"
+              x="210.3125" y="94.9646">no
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="85" x="12.5" y="125.4858"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="60"
+              x="25" y="155.1758">退出系统
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="115" x="195.625" y="125.4858"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="90"
+              x="208.125" y="155.1758">审核读者申请
+        </text>
+        <polygon fill="#FEFECE" filter="url(#f1xwy73inasw0b)"
+                 points="205,195.9717,301.25,195.9717,316.25,210.9717,301.25,225.9717,205,225.9717,190,210.9717,205,195.9717"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="205" y="217.3398">读者是否违约？
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="22.5" x="167.5" y="207.9504">yes
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="15"
+              x="316.25" y="207.9504">no
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="85" x="135" y="238.4717"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="60"
+              x="147.5" y="268.1616">拒绝申请
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="85" x="286.25" y="238.4717"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="60"
+              x="298.75" y="268.1616">同意借书
+        </text>
+        <polygon fill="#FEFECE" filter="url(#f1xwy73inasw0b)"
+                 points="253.125,291.4575,268.125,306.4575,253.125,321.4575,238.125,306.4575,253.125,291.4575"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <polygon fill="#FEFECE" filter="url(#f1xwy73inasw0b)"
+                 points="154.0625,328.9575,169.0625,343.9575,154.0625,358.9575,139.0625,343.9575,154.0625,328.9575"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <rect fill="#FEFECE" filter="url(#f1xwy73inasw0b)" height="45.4858" rx="15.625" ry="15.625"
+              style="stroke: #A80036; stroke-width: 1.875;" width="85" x="111.5625" y="383.9575"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="60"
+              x="124.0625" y="413.6475">退出系统
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="190" x2="177.5" y1="210.9717" y2="210.9717"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="177.5" x2="177.5" y1="210.9717" y2="238.4717"/>
+        <polygon fill="#A80036" points="172.5,225.9717,177.5,238.4717,182.5,225.9717,177.5,230.9717"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="316.25" x2="328.75" y1="210.9717" y2="210.9717"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="328.75" x2="328.75" y1="210.9717" y2="238.4717"/>
+        <polygon fill="#A80036" points="323.75,225.9717,328.75,238.4717,333.75,225.9717,328.75,230.9717"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="177.5" x2="177.5" y1="283.9575" y2="306.4575"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="177.5" x2="238.125" y1="306.4575" y2="306.4575"/>
+        <polygon fill="#A80036" points="225.625,301.4575,238.125,306.4575,225.625,311.4575,230.625,306.4575"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="328.75" x2="328.75" y1="283.9575" y2="306.4575"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="328.75" x2="268.125" y1="306.4575" y2="306.4575"/>
+        <polygon fill="#A80036" points="280.625,301.4575,268.125,306.4575,280.625,311.4575,275.625,306.4575"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="253.125" x2="253.125" y1="170.9717" y2="195.9717"/>
+        <polygon fill="#A80036" points="248.125,183.4717,253.125,195.9717,258.125,183.4717,253.125,188.4717"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="97.8125" x2="55" y1="97.9858" y2="97.9858"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="55" x2="55" y1="97.9858" y2="125.4858"/>
+        <polygon fill="#A80036" points="50,112.9858,55,125.4858,60,112.9858,55,117.9858"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="210.3125" x2="253.125" y1="97.9858" y2="97.9858"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="253.125" x2="253.125" y1="97.9858" y2="125.4858"/>
+        <polygon fill="#A80036" points="248.125,112.9858,253.125,125.4858,258.125,112.9858,253.125,117.9858"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="55" x2="55" y1="170.9717" y2="343.9575"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="55" x2="139.0625" y1="343.9575" y2="343.9575"/>
+        <polygon fill="#A80036" points="126.5625,338.9575,139.0625,343.9575,126.5625,348.9575,131.5625,343.9575"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="253.125" x2="253.125" y1="321.4575" y2="343.9575"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="253.125" x2="169.0625" y1="343.9575" y2="343.9575"/>
+        <polygon fill="#A80036" points="181.5625,338.9575,169.0625,343.9575,181.5625,348.9575,176.5625,343.9575"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="154.0625" x2="154.0625" y1="57.9858" y2="82.9858"/>
+        <polygon fill="#A80036" points="149.0625,70.4858,154.0625,82.9858,159.0625,70.4858,154.0625,75.4858"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="154.0625" x2="154.0625" y1="358.9575" y2="383.9575"/>
+        <polygon fill="#A80036" points="149.0625,371.4575,154.0625,383.9575,159.0625,371.4575,154.0625,376.4575"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[818d9d7ee6902f57cf938a6cb2a445b6]
+@startuml
+
+:读者申请借书;
+if (读者取消申请) then (yes)
+  :退出系统;
+else (no)
+  :审核读者申请;
+    if (读者是否违约？) then (yes)
+         :拒绝申请;
+       else (no)
+         :同意借书;
+       endif
+endif
+:退出系统;
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>
