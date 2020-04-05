@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="255px" preserveAspectRatio="none"
+     style="width:186px;height:255px;" version="1.1" viewBox="0 0 186 255" width="186.25px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fhqkherdplzae" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FEFECE" filter="url(#fhqkherdplzae)" height="103.772" style="stroke: #A80036; stroke-width: 1.875;"
+              width="165" x="7.5" y="10"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="60"
+              x="60" y="29.6899">书目信息
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="171.25" y1="35.4858" y2="35.4858"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="150"
+              x="15" y="54.8108">书籍ISBN = wfd14562322
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs"
+              textLength="117.5" x="15" y="71.8823">书名="世界如此美妙"
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="75"
+              x="15" y="88.9539">作者 = "喃喃"
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="90"
+              x="15" y="106.0254">印刷号=155645
+        </text>
+        <rect fill="#FEFECE" filter="url(#fhqkherdplzae)" height="52.5574" style="stroke: #A80036; stroke-width: 1.875;"
+              width="135" x="22.5" y="188.75"/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="30"
+              x="75" y="208.4399">书本
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="23.75" x2="156.25" y1="214.2358" y2="214.2358"/>
+        <text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="120"
+              x="30" y="233.5608">馆藏编号 = "j0315-2"
+        </text><!--MD5=[c13460a2378ff74fd8f01be5dcdb89f9]
+reverse link 书目信息 to 书本-->
+        <path d="M90,139.6668 C90,157.3705 90,174.9838 90,188.5918 " fill="none" id="书目信息&lt;-书本"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="none" points="81.2501,139.1198,90,114.12,98.7501,139.1198,81.2501,139.1198"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[2cefa7fb90f93cd576cb1fc5b92b972e]
+@startuml
+object 书目信息
+object 书本
+书目信息<|- -书本
+object 书目信息 {
+  书籍ISBN = wfd14562322
+  书名="世界如此美妙"
+  作者 = "喃喃"
+  印刷号=155645
+}
+object 书本 {
+  馆藏编号 = "j0315-2"
+}
+
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>
