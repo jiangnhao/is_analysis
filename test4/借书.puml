@@ -1,0 +1,44 @@
+@startuml
+actor 图书管理员
+== 申请借书阶段 ==
+图书管理员->登录界面:1:验证身份
+activate 图书管理员
+activate 登录界面
+登录界面->图书管理员:2：返回信息
+deactivate 登录界面
+读者->图书管理员:3:发出借书请求
+activate 读者
+deactivate 图书管理员
+deactivate 读者
+
+== 执行借书阶段 ==
+图书管理员->读者记录:4:扫描读者ID
+activate 图书管理员
+activate 读者记录
+deactivate 图书管理员
+读者记录->读者记录:5：记录读者借书
+读者记录->图书管理员:6:返回读者信息
+deactivate 读者记录
+activate 图书管理员
+图书管理员->借书记录:7:扫描书籍ID
+activate 借书记录
+
+借书记录->图书管理员:8:返回该书信息
+deactivate 图书管理员
+deactivate 借书记录
+
+
+
+借书记录->借书记录:9：记录书籍借出
+activate 借书记录
+
+借书记录->图书管理员:10：借阅成功
+deactivate 借书记录
+activate 图书管理员
+
+图书管理员->读者:11：把书给读者
+activate 读者
+deactivate 读者
+deactivate 图书管理员
+
+@enduml
