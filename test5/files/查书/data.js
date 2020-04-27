@@ -1,0 +1,72 @@
+﻿$axure.loadCurrentPage(
+    (function () {
+        var _ = function () {
+            var r = {}, a = arguments;
+            for (var i = 0; i < a.length; i += 2) r[a[i]] = a[i + 1];
+            return r;
+        }
+        var _creator = function () {
+            return _(b, c, d, e, f, g, h, g, i, [j], k, _(l, m, n, o, p, q, r, _(), s, _(t, u, v, w, x, _(y, z, A, B), C, null, D, w, E, w, F, G, H, null, I, J, K, L, M, N, O, J), P, _(), Q, _(), R, _(S, [_(T, U, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, bf, bg, bh), t, bi, x, _(y, z, A, bj)), P, _(), bk, _(), S, [_(T, bl, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, bf, bg, bh), t, bi, x, _(y, z, A, bj)), P, _(), bk, _())], bp, g), _(T, bq, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(br, bs, bd, _(be, bt, bg, bu), t, bv, bw, _(bx, by, bz, bA)), P, _(), bk, _(), S, [_(T, bB, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(br, bs, bd, _(be, bt, bg, bu), t, bv, bw, _(bx, by, bz, bA)), P, _(), bk, _())], bp, g), _(T, bC, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, bD, bg, bE), t, bF, bw, _(bx, bG, bz, bh), x, _(y, z, A, bH)), P, _(), bk, _(), S, [_(T, bI, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, bD, bg, bE), t, bF, bw, _(bx, bG, bz, bh), x, _(y, z, A, bH)), P, _(), bk, _())], bp, g), _(T, bJ, V, bK, X, bL, n, bM, ba, bM, bb, bc, s, _(bd, _(be, bD, bg, bN), bw, _(bx, bG, bz, bh)), P, _(), bk, _(), Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, bW, bP, bX, bY, [_(bZ, [bJ], ca, [bO])])])])), cb, bc, cc, cd, ce, g, cf, g, cg, [_(T, ch, V, ci, n, cj, S, [], s, _(x, _(y, z, A, ck), C, null, D, w, E, w, F, G), P, _())]), _(T, cl, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, cq), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, cy, cz, cA, cB, cC, cD, cE)), cF, cG), P, _(), bk, _(), S, [_(T, cH, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, cq), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, cy, cz, cA, cB, cC, cD, cE)), cF, cG), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, cJ, cK, _(cL, k, b, cM, cN, bc), cO, cP)])])), cb, bc, cQ, _(cR, cS), bp, g), _(T, cT, V, cU, X, bL, n, bM, ba, bM, bb, bc, s, _(bd, _(be, bD, bg, bN), bw, _(bx, bG, bz, cV)), P, _(), bk, _(), Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, bW, bP, cW, bY, [_(bZ, [cT], ca, [bO])])])])), cb, bc, cc, cd, ce, g, cf, g, cg, [_(T, cX, V, cY, n, cj, S, [], s, _(x, _(y, z, A, ck), C, null, D, w, E, w, F, G), P, _())]), _(T, cZ, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, da), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _(), S, [_(T, dc, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, da), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, dd, cK, _(cL, k, b, de, cN, bc), cO, cP)])])), cb, bc, cQ, _(cR, cS), bp, g), _(T, df, V, q, X, bL, n, bM, ba, bM, bb, bc, s, _(bd, _(be, bD, bg, bN), bw, _(bx, bG, bz, dg)), P, _(), bk, _(), Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, dh, bP, di, dj, di, dk, _(dl, cy, dm, cy, be, dn, bg, dn, dp, g, cc, bc, bw, g, dq, g, dr, g, ds, g, dt, bc, du, bc)), _(bV, bW, bP, dv, bY, [_(bZ, [df], ca, [bO])])])])), cb, bc, cc, cd, ce, g, cf, g, cg, [_(T, dw, V, dx, n, cj, S, [], s, _(x, _(y, z, A, ck), C, null, D, w, E, w, F, G), P, _())]), _(T, dy, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dz), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _(), S, [_(T, dA, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dz), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, dB, cK, _(cL, k, b, c, cN, bc), cO, cP)])])), cb, bc, cQ, _(cR, cS), bp, g), _(T, dC, V, dD, X, bL, n, bM, ba, bM, bb, bc, s, _(bd, _(be, bD, bg, dE), bw, _(bx, bG, bz, dF)), P, _(), bk, _(), Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, bW, bP, dG, bY, [_(bZ, [dC], ca, [bO])])])])), cb, bc, cc, cd, ce, g, cf, g, cg, [_(T, dH, V, dI, n, cj, S, [], s, _(x, _(y, z, A, ck), C, null, D, w, E, w, F, G), P, _())]), _(T, dJ, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dK), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _(), S, [_(T, dL, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dK), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, dM, cK, _(cL, k, b, dN, cN, bc), cO, cP)])])), cb, bc, cQ, _(cR, cS), bp, g), _(T, dO, V, dP, X, bL, n, bM, ba, bM, bb, bc, s, _(bd, _(be, bD, bg, bN), bw, _(bx, bG, bz, dQ)), P, _(), bk, _(), Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, bW, bP, dR, bY, [_(bZ, [dO], ca, [bO])])])])), cb, bc, cc, cd, ce, g, cf, g, cg, [_(T, dS, V, dT, n, cj, S, [], s, _(x, _(y, z, A, ck), C, null, D, w, E, w, F, G), P, _())]), _(T, dU, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dV), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _(), S, [_(T, dW, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, cm, bg, cn), t, co, bw, _(bx, cp, bz, dV), cr, _(cs, bc, ct, cu, cv, cu, cw, cu, A, _(cx, db, cz, db, cB, db, cD, cE)), cF, cG), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, dX, cK, _(cL, k, b, dY, cN, bc), cO, cP)])])), cb, bc, cQ, _(cR, cS), bp, g), _(T, dZ, V, W, X, ea, n, Z, ba, Z, bb, bc, s, _(bd, _(be, eb, bg, dg), t, ec, bw, _(bx, ed, bz, dK)), P, _(), bk, _(), S, [_(T, ee, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, eb, bg, dg), t, ec, bw, _(bx, ed, bz, dK)), P, _(), bk, _())], cQ, _(cR, ef), bp, g), _(T, eg, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, eh, bg, ei), t, co, bw, _(bx, ej, bz, ek)), P, _(), bk, _(), S, [_(T, el, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, eh, bg, ei), t, co, bw, _(bx, ej, bz, ek)), P, _(), bk, _())], bp, g), _(T, em, V, W, X, Y, n, Z, ba, Z, bb, bc, s, _(bd, _(be, en, bg, ei), t, co, bw, _(bx, eo, bz, ek)), P, _(), bk, _(), S, [_(T, ep, V, W, X, null, bm, bc, n, bn, ba, bo, bb, bc, s, _(bd, _(be, en, bg, ei), t, co, bw, _(bx, eo, bz, ek)), P, _(), bk, _())], Q, _(bO, _(bP, bQ, bR, [_(bP, bS, bT, g, bU, [_(bV, cI, bP, eq, cK, _(cL, k, b, er, cN, bc), cO, es)])])), cb, bc, bp, g)])), et, _(), eu, _(ev, _(ew, ex), ey, _(ew, ez), eA, _(ew, eB), eC, _(ew, eD), eE, _(ew, eF), eG, _(ew, eH), eI, _(ew, eJ), eK, _(ew, eL), eM, _(ew, eN), eO, _(ew, eP), eQ, _(ew, eR), eS, _(ew, eT), eU, _(ew, eV), eW, _(ew, eX), eY, _(ew, eZ), fa, _(ew, fb), fc, _(ew, fd), fe, _(ew, ff), fg, _(ew, fh), fi, _(ew, fj), fk, _(ew, fl), fm, _(ew, fn), fo, _(ew, fp), fq, _(ew, fr), fs, _(ew, ft), fu, _(ew, fv), fw, _(ew, fx)));
+        };
+        var b = "url", c = "查书.html", d = "generationDate", e = new Date(1587998634250.68), f = "isCanvasEnabled",
+            g = false, h = "isAdaptiveEnabled", i = "variables", j = "OnLoadVariable", k = "page", l = "packageId",
+            m = "65a19c9019224d7eb7cb45313facf9a5", n = "type", o = "Axure:Page", p = "name", q = "查书", r = "notes",
+            s = "style", t = "baseStyle", u = "627587b6038d43cca051c114ac41ad32", v = "pageAlignment", w = "near",
+            x = "fill", y = "fillType", z = "solid", A = "color", B = 0xFFFFFFFF, C = "image",
+            D = "imageHorizontalAlignment", E = "imageVerticalAlignment", F = "imageRepeat", G = "auto", H = "favicon",
+            I = "sketchFactor", J = "0", K = "colorStyle", L = "appliedColor", M = "fontName", N = "Applied Font",
+            O = "borderWidth", P = "adaptiveStyles", Q = "interactionMap", R = "diagram", S = "objects", T = "id",
+            U = "292ae9093502407fbbc08c600f1cbcf8", V = "label", W = "", X = "friendlyType", Y = "矩形",
+            Z = "vectorShape", ba = "styleType", bb = "visible", bc = true, bd = "size", be = "width", bf = 2400,
+            bg = "height", bh = 50, bi = "4b7bfc596114427989e10bb0b557d0ce", bj = 0xFF006699, bk = "imageOverrides",
+            bl = "ad82ed3c6bb04e2d81ab373ccef62497", bm = "isContained", bn = "richTextPanel", bo = "paragraph",
+            bp = "generateCompound", bq = "e4795fcf125045b2a8596691fa5d43a0", br = "fontWeight", bs = "700", bt = 193,
+            bu = 37, bv = "1111111151944dfba49f67fd55eb1f88", bw = "location", bx = "x", by = 400, bz = "y", bA = 8,
+            bB = "63c4e9b8a95f4ff485b3c89939852fd8", bC = "b95cea76cd7542599ad1192f20b5b74d", bD = 200, bE = 800,
+            bF = "0882bfcd7d11450d85d157758311dca5", bG = 0, bH = 0xFFE4E4E4, bI = "62716e48234440e7986e10348eb40bc8",
+            bJ = "57105f09610f45e4a67a6fcb88d1109d", bK = "借书", bL = "动态面板", bM = "dynamicPanel", bN = 60,
+            bO = "onClick", bP = "description", bQ = "鼠标单击 时", bR = "cases", bS = "Case 1", bT = "isNewIfGroup",
+            bU = "actions", bV = "action", bW = "fireEvents", bX = "Fire 鼠标单击 时 on 借书", bY = "firedEvents",
+            bZ = "objectPath", ca = "firedEventNames", cb = "tabbable", cc = "scrollbars", cd = "none",
+            ce = "fitToContent", cf = "propagate", cg = "diagrams", ch = "d52e99c179184b0aa944e41806026d85",
+            ci = "State1", cj = "Axure:PanelDiagram", ck = 0xFFFFFF, cl = "badfffe1e9d94ca2a94db463ece9b217", cm = 41,
+            cn = 23, co = "2285372321d148ec80932747449c36c9", cp = 73, cq = 69, cr = "outerShadow", cs = "on",
+            ct = "offsetX", cu = 5, cv = "offsetY", cw = "blurRadius", cx = "r", cy = 0, cz = "g", cA = 102, cB = "b",
+            cC = 255, cD = "a", cE = 0.349019607843137, cF = "fontSize", cG = "20px",
+            cH = "ea463defe5644f4382d05e75535fc64a", cI = "linkWindow", cJ = "在 新窗口/新标签 打开 借阅", cK = "target",
+            cL = "targetType", cM = "借阅.html", cN = "includeVariables", cO = "linkType", cP = "new", cQ = "images",
+            cR = "normal~", cS = "images/借阅/u19.png", cT = "12e10f2cdeb0419aac87bc32fde6b4b5", cU = "还书", cV = 110,
+            cW = "Fire 鼠标单击 时 on 还书", cX = "3fb35bd69ee8497a93fe26ee6fda7584", cY = "State2",
+            cZ = "01f3799f2ce34fe0910cdc0e10a75df2", da = 129, db = 51, dc = "ceb19f696147430fb3991fd691355885",
+            dd = "在 新窗口/新标签 打开 归还", de = "归还.html", df = "9811f38e747a41089ab87434428cd1d9", dg = 170, dh = "other",
+            di = "其他", dj = "otherDescription", dk = "popup", dl = "left", dm = "top", dn = 300, dp = "toolbar",
+            dq = "status", dr = "menubar", ds = "directories", dt = "resizable", du = "centerwindow",
+            dv = "Fire 鼠标单击 时 on 查书", dw = "3867ca85147241d5b25fcb46cc5ffaaf", dx = "State3",
+            dy = "c6efc8dc456547d89891db0b99d2b38d", dz = 189, dA = "b45f2b03c8804f9883e5004d93e6b30f",
+            dB = "在 新窗口/新标签 打开 查书", dC = "a7c7f4cf51d5410a8baa94cb3a94da02", dD = "入库", dE = 62, dF = 230,
+            dG = "Fire 鼠标单击 时 on 入库", dH = "96b78c7e113a4af2bfc854c53c607928", dI = "State4",
+            dJ = "5c38c1ea1a03479fab1f9e1899f03377", dK = 251, dL = "0fe2fe8f4bb04a77896139191ca60c79",
+            dM = "在 新窗口/新标签 打开 入库", dN = "入库.html", dO = "9f810587a84a4bf2a9780c5775495dd2", dP = "缴费", dQ = 292,
+            dR = "Fire 鼠标单击 时 on 缴费", dS = "e75b7687423e4be39a8361a84d81685a", dT = "State5",
+            dU = "02dc5ac6be354289bc824bad5dc55485", dV = 311, dW = "8a629bb04bfd4441b613434d2ea98547",
+            dX = "在 新窗口/新标签 打开 缴费", dY = "缴费.html", dZ = "2b3b88181fc246fc92c7760c11b41a91", ea = "占位符", eb = 300,
+            ec = "c50e74f669b24b37bd9c18da7326bccd", ed = 385, ee = "b5465526dbc04d9ea334b892dabf7c12",
+            ef = "images/归还/u328.png", eg = "be301a59530145508e5c510f7590f3dd", eh = 132, ei = 18, ej = 16, ek = 17,
+            el = "942a1870cec84c24a7fff226f44f174c", em = "fb4d6f28fa33420d837befca79713baa", en = 30, eo = 190,
+            ep = "665cef74100c4eaba8c5c3ad8ecf9b91", eq = "在 当前窗口 打开 index", er = "index.html", es = "current",
+            et = "masters", eu = "objectPaths", ev = "292ae9093502407fbbc08c600f1cbcf8", ew = "scriptId", ex = "u334",
+            ey = "ad82ed3c6bb04e2d81ab373ccef62497", ez = "u335", eA = "e4795fcf125045b2a8596691fa5d43a0", eB = "u336",
+            eC = "63c4e9b8a95f4ff485b3c89939852fd8", eD = "u337", eE = "b95cea76cd7542599ad1192f20b5b74d", eF = "u338",
+            eG = "62716e48234440e7986e10348eb40bc8", eH = "u339", eI = "57105f09610f45e4a67a6fcb88d1109d", eJ = "u340",
+            eK = "badfffe1e9d94ca2a94db463ece9b217", eL = "u341", eM = "ea463defe5644f4382d05e75535fc64a", eN = "u342",
+            eO = "12e10f2cdeb0419aac87bc32fde6b4b5", eP = "u343", eQ = "01f3799f2ce34fe0910cdc0e10a75df2", eR = "u344",
+            eS = "ceb19f696147430fb3991fd691355885", eT = "u345", eU = "9811f38e747a41089ab87434428cd1d9", eV = "u346",
+            eW = "c6efc8dc456547d89891db0b99d2b38d", eX = "u347", eY = "b45f2b03c8804f9883e5004d93e6b30f", eZ = "u348",
+            fa = "a7c7f4cf51d5410a8baa94cb3a94da02", fb = "u349", fc = "5c38c1ea1a03479fab1f9e1899f03377", fd = "u350",
+            fe = "0fe2fe8f4bb04a77896139191ca60c79", ff = "u351", fg = "9f810587a84a4bf2a9780c5775495dd2", fh = "u352",
+            fi = "02dc5ac6be354289bc824bad5dc55485", fj = "u353", fk = "8a629bb04bfd4441b613434d2ea98547", fl = "u354",
+            fm = "2b3b88181fc246fc92c7760c11b41a91", fn = "u355", fo = "b5465526dbc04d9ea334b892dabf7c12", fp = "u356",
+            fq = "be301a59530145508e5c510f7590f3dd", fr = "u357", fs = "942a1870cec84c24a7fff226f44f174c", ft = "u358",
+            fu = "fb4d6f28fa33420d837befca79713baa", fv = "u359", fw = "665cef74100c4eaba8c5c3ad8ecf9b91", fx = "u360";
+        return _creator();
+    })());
