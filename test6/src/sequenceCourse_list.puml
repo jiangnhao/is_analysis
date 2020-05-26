@@ -1,0 +1,17 @@
+@startuml
+title 基于GitHub的实验管理平台--课程列表顺序图
+actor 用户
+activate 用户
+用户 -> 首页: 1.用户登录
+activate 首页
+
+首页->服务器:2.选择学期
+activate 服务器
+服务器-> 数据库:3.请求查看课程列表
+activate 数据库
+数据库->用户:4.返回课程列表
+deactivate 数据库
+deactivate 服务器
+deactivate 首页
+deactivate 用户
+@enduml

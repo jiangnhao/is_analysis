@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="448.75px" preserveAspectRatio="none"
+     style="width:487px;height:448px;" version="1.1" viewBox="0 0 487 448" width="487.5px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f15qrqf625ro1c" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="352.5" x="68.125" y="32.5549">基于GitHub的实验管理平台--学生列表顺序图
+        </text>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="148.772" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="25" y="165.3003"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="119.079" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="140" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="79.386" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="255" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="39.693" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="435" y="274.3793"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="31.25" x2="31.25"
+              y1="152.8003" y2="336.5723"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="146.25" x2="146.25"
+              y1="152.8003" y2="336.5723"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="261.25" x2="261.25"
+              y1="152.8003" y2="336.5723"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="441.25" x2="441.25"
+              y1="152.8003" y2="336.5723"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="10" y="148.9551">用户
+        </text>
+        <ellipse cx="31.25" cy="57.6501" fill="#FEFECE" filter="url(#f15qrqf625ro1c)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M31.25,67.6501 L31.25,101.4001 M15,77.6501 L47.5,77.6501 M31.25,101.4001 L15,120.1501 M31.25,101.4001 L47.5,120.1501 "
+              fill="none" filter="url(#f15qrqf625ro1c)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="10" y="355.3772">用户
+        </text>
+        <ellipse cx="31.25" cy="371.7224" fill="#FEFECE" filter="url(#f15qrqf625ro1c)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M31.25,381.7224 L31.25,415.4724 M15,391.7224 L47.5,391.7224 M31.25,415.4724 L15,434.2224 M31.25,415.4724 L47.5,434.2224 "
+              fill="none" filter="url(#f15qrqf625ro1c)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="52.5" x="117.5" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="126.25" y="133.9551">首页
+        </text>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="52.5" x="117.5" y="335.3223"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="126.25" y="364.1272">首页
+        </text>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="223.75" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="232.5" y="133.9551">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="223.75" y="335.3223"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="232.5" y="364.1272">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="403.75" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="412.5" y="133.9551">数据库
+        </text>
+        <rect fill="#FEFECE" filter="url(#f15qrqf625ro1c)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="403.75" y="335.3223"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="412.5" y="364.1272">数据库
+        </text>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="148.772" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="25" y="165.3003"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="119.079" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="140" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="79.386" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="255" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#f15qrqf625ro1c)" height="39.693" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="435" y="274.3793"/>
+        <polygon fill="#A80036" points="125,189.9933,137.5,194.9933,125,199.9933,130,194.9933"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="37.5" x2="132.5" y1="194.9933" y2="194.9933"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="78.75" x="46.25" y="188.9227">1.用户登录
+        </text>
+        <polygon fill="#A80036" points="240,229.6863,252.5,234.6863,240,239.6863,245,234.6863"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="152.5" x2="247.5" y1="234.6863" y2="234.6863"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="78.75" x="161.25" y="228.6157">2.选择学期
+        </text>
+        <polygon fill="#A80036" points="420,269.3793,432.5,274.3793,420,279.3793,425,274.3793"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="267.5" x2="427.5" y1="274.3793" y2="274.3793"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="143.75" x="276.25" y="268.3087">3.请求查看课程列表
+        </text>
+        <polygon fill="#A80036" points="45,309.0723,32.5,314.0723,45,319.0723,40,314.0723"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="37.5" x2="440" y1="314.0723" y2="314.0723"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="111.25" x="52.5" y="308.0017">4.返回课程列表
+        </text><!--MD5=[3842d9c5f7437e61b5bb36a023d7633e]
+@startuml
+title 基于GitHub的实验管理平台- -学生列表顺序图
+actor 用户
+activate 用户
+用户 -> 首页: 1.用户登录
+activate 首页
+
+首页->服务器:2.选择学期
+activate 服务器
+服务器-> 数据库:3.请求查看课程列表
+activate 数据库
+数据库->用户:4.返回课程列表
+deactivate 数据库
+deactivate 服务器
+deactivate 首页
+deactivate 用户
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

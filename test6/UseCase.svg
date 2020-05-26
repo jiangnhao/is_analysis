@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="728.75px" preserveAspectRatio="none"
+     style="width:1175px;height:728px;" version="1.1" viewBox="0 0 1175 728" width="1175px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1ictk5b7zdzbw" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="22.5" lengthAdjust="spacingAndGlyphs" textLength="355"
+              x="415" y="25.7849">基于GitHub的实验管理平台--用例图
+        </text><!--MD5=[f5159b98ff9d9cbe896e56064e013c9f]
+entity TEACHERS-->
+        <ellipse cx="442.5" cy="428.2288" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M442.5,438.2288 L442.5,471.9788 M426.25,448.2288 L458.75,448.2288 M442.5,471.9788 L426.25,490.7288 M442.5,471.9788 L458.75,490.7288 "
+              fill="none" filter="url(#f1ictk5b7zdzbw)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="92.5"
+              x="396.25" y="519.5337">TEACHERS
+        </text><!--MD5=[e95fe56ab8011ee4c52a5aaefaee9be5]
+entity STUDENTS-->
+        <ellipse cx="842.5" cy="428.2288" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M842.5,438.2288 L842.5,471.9788 M826.25,448.2288 L858.75,448.2288 M842.5,471.9788 L826.25,490.7288 M842.5,471.9788 L858.75,490.7288 "
+              fill="none" filter="url(#f1ictk5b7zdzbw)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs"
+              textLength="91.25" x="796.875" y="519.5337">STUDENTS
+        </text><!--MD5=[f3484e3a0a105cb8e2150657ee7c4492]
+entity USERS-->
+        <ellipse cx="620" cy="245.7288" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M620,255.7288 L620,289.4788 M603.75,265.7288 L636.25,265.7288 M620,289.4788 L603.75,308.2288 M620,289.4788 L636.25,308.2288 "
+              fill="none" filter="url(#f1ictk5b7zdzbw)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="57.5"
+              x="591.25" y="337.0337">USERS
+        </text>
+        <ellipse cx="898.4987" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="28.4987" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="880.9987" y="68.9538">选课
+        </text>
+        <ellipse cx="797.2487" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="28.4987" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="779.7487" y="68.9538">登录
+        </text>
+        <ellipse cx="695.9987" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="28.4987" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="678.4987" y="68.9538">登出
+        </text>
+        <ellipse cx="544.8712" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="77.9962" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="105"
+              x="492.3712" y="68.9538">查看用户信息
+        </text>
+        <ellipse cx="344.8712" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="77.9962" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="105"
+              x="292.3712" y="68.9538">修改用户信息
+        </text>
+        <ellipse cx="170.1225" cy="61.3787" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="135.1225" y="68.9538">修改密码
+        </text>
+        <ellipse cx="35.9987" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="28.4987" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="18.4987" y="702.7038">评分
+        </text>
+        <ellipse cx="805.1225" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="770.1225" y="702.7038">查看实验
+        </text>
+        <ellipse cx="162.6225" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="127.6225" y="702.7038">发布实验
+        </text>
+        <ellipse cx="957.6225" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="922.6225" y="702.7038">修改实验
+        </text>
+        <ellipse cx="486.3725" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="451.3725" y="702.7038">查看成绩
+        </text>
+        <ellipse cx="312.6225" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="277.6225" y="702.7038">学生列表
+        </text>
+        <ellipse cx="648.8725" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="613.8725" y="702.7038">课程列表
+        </text>
+        <ellipse cx="1108.8725" cy="695.1287" fill="#FEFECE" filter="url(#f1ictk5b7zdzbw)" rx="53.2475" ry="20.65"
+                 style="stroke: #A80036; stroke-width: 1.875;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="1073.8725" y="702.7038">查看课程
+        </text><!--MD5=[1597bbce9e6cac510e52f16228a4b405]
+reverse link USERS to TEACHERS-->
+        <path d="M573.4375,335.4463 C547.4238,361.8275 515.1062,394.6 489.0875,420.985 " fill="none"
+              id="USERS&lt;-TEACHERS" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="none" points="567.3025,329.2063,591.0863,317.55,579.7638,341.4938,567.3025,329.2063"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[5e4affbf242e1bc8b7c801ee8762ff19]
+reverse link USERS to STUDENTS-->
+        <path d="M668.5813,327.5313 C706.7113,358.3775 759.4175,401.0163 796.79,431.25 " fill="none"
+              id="USERS&lt;-STUDENTS" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="none" points="663.0213,334.2875,649.0875,311.76,674.0275,320.6813,663.0213,334.2875"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[c1744b5ec50783db0f15bd16f95d5f3b]
+reverse link 选课 to USERS-->
+        <path d="M874.7225,81.8363 C823.65,122.7175 704.4525,218.1288 649.1463,262.3988 " fill="none" id="选课&lt;-USERS"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036" points="880.0275,77.59,868.1197,80.7151,875.1476,81.495,874.3677,88.5229,880.0275,77.59"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[67b19fcf5f5c105ff9994d578f1e0eb2]
+reverse link 登录 to USERS-->
+        <path d="M779.9537,84.66 C749.395,123.0738 686.1262,202.605 648.9738,249.3075 " fill="none" id="登录&lt;-USERS"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="783.8662,79.7413,772.9495,85.4323,779.9752,84.6323,780.7752,91.658,783.8662,79.7413"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[60a93c6bfcdd3e4019b922c4580ad079]
+reverse link 登出 to USERS-->
+        <path d="M687.63,87.8263 C675.6413,122.9088 653.6438,187.2788 637.9938,233.0763 " fill="none" id="登出&lt;-USERS"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="689.7488,81.6275,681.379,90.6558,687.7274,87.5416,690.8416,93.89,689.7488,81.6275"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[f2ba94c04c5a40579006967bd2ca75fa]
+reverse link 查看用户信息 to USERS-->
+        <path d="M553.6113,88.2238 C565.4125,123.33 586.8888,187.2225 602.2188,232.8313 " fill="none"
+              id="查看用户信息&lt;-USERS" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="551.525,82.0138,550.369,94.2704,553.5159,87.9382,559.8481,91.085,551.525,82.0138"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[ab184aaa20c904bae15515dd1144a539]
+reverse link 修改用户信息 to USERS-->
+        <path d="M372.8538,85.2025 C425.27,127.7325 538.0688,219.2538 591.2025,262.3638 " fill="none"
+              id="修改用户信息&lt;-USERS" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="367.9738,81.2438,373.5603,92.2143,372.8274,85.1813,379.8604,84.4485,367.9738,81.2438"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[3c65abcc299219109f932b541acfb802]
+reverse link 修改密码 to USERS-->
+        <path d="M207.3613,81.1288 C294.89,124.5288 511.77,232.065 590.6875,271.195 " fill="none" id="修改密码&lt;-USERS"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="201.2863,78.1163,209.144,87.5935,206.8857,80.8928,213.5864,78.6344,201.2863,78.1163"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[b983ad3bc1aff36c47cf8a077b6f6091]
+link TEACHERS to 评分-->
+        <path d="M395.8975,496.3238 C310.7575,543.0863 132.5238,640.9775 63.9531,678.6384 " fill="none"
+              id="TEACHERS-&gt;评分" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="58.4345,681.6694,70.7021,680.6362,63.9127,678.6607,65.8882,671.8712,58.4345,681.6694"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[3deb940150b66bdbc261df845588e908]
+link TEACHERS to 查看实验-->
+        <path d="M488.7788,499.2138 C563.2613,545.0588 707.895,634.0841 772.4838,673.8393 " fill="none"
+              id="TEACHERS-&gt;查看实验" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="778.1088,677.3016,771.1499,667.146,772.7865,674.0251,765.9074,675.6617,778.1088,677.3016"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[86b3284a843703b53c6e9aa1b62bbe4e]
+link TEACHERS to 发布实验-->
+        <path d="M395.95,507.8238 C336.9838,554.8113 237.315,634.2351 189.5738,672.2793 " fill="none"
+              id="TEACHERS-&gt;发布实验" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="184.5663,676.2695,196.4806,673.1693,189.4543,672.3747,190.2489,665.3484,184.5663,676.2695"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[b68067eaf1cff09391114d9ef27d6229]
+link TEACHERS to 修改实验-->
+        <path d="M489.1113,490.9238 C589.295,534.3275 823.6538,635.8644 917.5525,676.5464 " fill="none"
+              id="TEACHERS-&gt;修改实验" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="923.5313,679.1368,915.1975,670.0752,917.7967,676.6513,911.2207,679.2505,923.5313,679.1368"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[ba634ba15778cf117ff02f36e52596b4]
+link TEACHERS to 查看成绩-->
+        <path d="M444.9788,523.7525 C446.7562,547.15 449.7988,574.87 455,599.4788 C460.0662,623.4496 469.1225,649.8545 476.1863,668.6236 "
+              fill="none" id="TEACHERS-&gt;查看成绩" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="478.4963,674.6816,479.1585,662.3884,476.2688,668.842,469.8152,665.9523,478.4963,674.6816"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[ed98bb0020db78f7ccc8e8ded07d18a7]
+link TEACHERS to 学生列表-->
+        <path d="M411.6913,523.6063 C385.0037,569.4113 347.5662,633.6671 327.1663,668.6814 " fill="none"
+              id="TEACHERS-&gt;学生列表" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="323.8025,674.4554,333.7864,667.2523,326.949,669.0552,325.1461,662.2179,323.8025,674.4554"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[170afcc5eadf0429aa8d0db32b408e4c]
+link TEACHERS to 课程列表-->
+        <path d="M488.7863,520.8025 C532.0288,567.5838 594.6625,635.3413 627.2413,670.585 " fill="none"
+              id="TEACHERS-&gt;课程列表" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="631.8238,675.5426,627.8586,663.8876,627.5811,670.9532,620.5155,670.6758,631.8238,675.5426"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[fd717ddb46d7f6ddaa45be4fdbb21323]
+link STUDENTS to 查看实验-->
+        <path d="M833.6125,523.6063 C825.9463,569.2225 815.205,633.1365 809.3038,668.2458 " fill="none"
+              id="STUDENTS-&gt;查看实验" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="808.26,674.4554,815.0555,664.1898,809.2959,668.2918,805.1939,662.5322,808.26,674.4554"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[0e9723d38fc38115022c92ba276c1ca9]
+link STUDENTS to 修改实验-->
+        <path d="M869.7538,523.6063 C893.3612,569.4113 926.48,633.6671 944.5263,668.6814 " fill="none"
+              id="STUDENTS-&gt;修改实验" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="947.5025,674.4554,946.7927,662.1648,944.6391,668.8999,937.9039,666.7463,947.5025,674.4554"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[19e6a728c837b64ffcbf69739b65d7c8]
+link STUDENTS to 课程列表-->
+        <path d="M796.5838,523.6063 C756.2675,570.035 699.4888,635.4219 669.38,670.0964 " fill="none"
+              id="STUDENTS-&gt;课程列表" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="665.1363,674.9835,676.2884,669.7689,669.2347,670.2649,668.7387,663.2113,665.1363,674.9835"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[515c80fc7b8400ce5a6672c5021002db]
+link STUDENTS to 查看成绩-->
+        <path d="M796.6563,499.4413 C723.5062,545.2563 582.17,633.7779 518.605,673.5891 " fill="none"
+              id="STUDENTS-&gt;查看成绩" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="513.0663,677.0581,525.2545,675.3236,518.363,673.7404,519.9462,666.8489,513.0663,677.0581"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[4b7cc9297fe26068e8d9053c16b4e35e]
+link STUDENTS to 查看课程-->
+        <path d="M888.27,509.085 C944.1338,555.9 1036.74,633.5079 1082.08,671.5033 " fill="none" id="STUDENTS-&gt;查看课程"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="#A80036"
+                 points="1087.3688,675.9358,1081.9575,664.8777,1082.5784,671.9214,1075.5346,672.5423,1087.3688,675.9358"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[9d9b6c43ed3fe51123ab3d452c26dd8f]
+@startuml
+title 基于GitHub的实验管理平台- -用例图
+actor TEACHERS
+actor STUDENTS
+actor USERS
+USERS <|- - TEACHERS
+USERS <|- - STUDENTS
+USERS - -up-> (选课)
+USERS - -up-> (登录)
+USERS - -up-> (登出)
+USERS - -up-> (查看用户信息)
+USERS - -up-> (修改用户信息)
+USERS - -up-> (修改密码)
+
+
+TEACHERS - - -> (评分)
+TEACHERS - - -> (查看实验)
+TEACHERS - - -> (发布实验)
+TEACHERS - - -> (修改实验)
+TEACHERS - - -> (查看成绩)
+TEACHERS - - -> (学生列表)
+TEACHERS - - -> (课程列表)
+
+STUDENTS - - -> (查看实验)
+STUDENTS - - -> (修改实验)
+STUDENTS - - -> (课程列表)
+STUDENTS - - -> (查看成绩)
+STUDENTS - - -> (查看课程)
+
+
+
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

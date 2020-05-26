@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="543.75px" preserveAspectRatio="none"
+     style="width:801px;height:543px;" version="1.1" viewBox="0 0 801 543" width="801.25px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1ivvt75nz8xt0" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="387.5" x="208.75" y="32.5549">基于GitHub的实验管理平台--评分标准设置顺序图
+        </text>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="244.408" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="53.75" y="165.3003"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="214.715" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="201.25" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="175.022" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="348.75" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="135.329" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="496.25" y="274.3793"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="95.636" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="648.75" y="314.0723"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="60" x2="60" y1="152.8003"
+              y2="432.2083"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="207.5" x2="207.5"
+              y1="152.8003" y2="432.2083"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="355" x2="355" y1="152.8003"
+              y2="432.2083"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="502.5" x2="502.5"
+              y1="152.8003" y2="432.2083"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="655" x2="655" y1="152.8003"
+              y2="432.2083"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="92.5"
+              x="10" y="148.9551">TEACHERS
+        </text>
+        <ellipse cx="60" cy="57.6501" fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M60,67.6501 L60,101.4001 M43.75,77.6501 L76.25,77.6501 M60,101.4001 L43.75,120.1501 M60,101.4001 L76.25,120.1501 "
+              fill="none" filter="url(#f1ivvt75nz8xt0)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="92.5"
+              x="10" y="451.0132">TEACHERS
+        </text>
+        <ellipse cx="60" cy="467.3584" fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M60,477.3584 L60,511.1084 M43.75,487.3584 L76.25,487.3584 M60,511.1084 L43.75,529.8584 M60,511.1084 L76.25,529.8584 "
+              fill="none" filter="url(#f1ivvt75nz8xt0)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="87.5" x="161.25" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="170" y="133.9551">课程列表
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="87.5" x="161.25" y="430.9583"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="170" y="459.7632">课程列表
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="87.5" x="308.75" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="317.5" y="133.9551">课程信息
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="87.5" x="308.75" y="430.9583"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="317.5" y="459.7632">课程信息
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="465" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="473.75" y="133.9551">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="70" x="465" y="430.9583"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="473.75" y="459.7632">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="105" x="600" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="87.5"
+              x="608.75" y="133.9551">数据库存储
+        </text>
+        <rect fill="#FEFECE" filter="url(#f1ivvt75nz8xt0)" height="41.4001"
+              style="stroke: #A80036; stroke-width: 1.875;" width="105" x="600" y="430.9583"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="87.5"
+              x="608.75" y="459.7632">数据库存储
+        </text>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="244.408" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="53.75" y="165.3003"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="214.715" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="201.25" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="175.022" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="348.75" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="135.329" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="496.25" y="274.3793"/>
+        <rect fill="#FFFFFF" filter="url(#f1ivvt75nz8xt0)" height="95.636" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="648.75" y="314.0723"/>
+        <polygon fill="#A80036" points="186.25,189.9933,198.75,194.9933,186.25,199.9933,191.25,194.9933"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="66.25" x2="193.75" y1="194.9933" y2="194.9933"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="111.25" x="75" y="188.9227">1.进入课程列表
+        </text>
+        <polygon fill="#A80036" points="333.75,229.6863,346.25,234.6863,333.75,239.6863,338.75,234.6863"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="213.75" x2="341.25" y1="234.6863" y2="234.6863"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="111.25" x="222.5" y="228.6157">2.进入某一课程
+        </text>
+        <polygon fill="#A80036" points="481.25,269.3793,493.75,274.3793,481.25,279.3793,486.25,274.3793"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="361.25" x2="488.75" y1="274.3793" y2="274.3793"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="111.25" x="370" y="268.3087">3.设定评分细则
+        </text>
+        <polygon fill="#A80036" points="633.75,309.0723,646.25,314.0723,633.75,319.0723,638.75,314.0723"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="508.75" x2="641.25" y1="314.0723" y2="314.0723"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="116.25" x="517.5" y="308.0017">4. 传递评分细则
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="661.25" x2="713.75" y1="353.7653" y2="353.7653"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="713.75" x2="713.75" y1="353.7653" y2="370.0153"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="662.5" x2="713.75" y1="370.0153" y2="370.0153"/>
+        <polygon fill="#A80036" points="675,365.0153,662.5,370.0153,675,375.0153,670,370.0153"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="116.25" x="670" y="347.6947">5. 更新评分细则
+        </text>
+        <polygon fill="#A80036" points="73.75,404.7083,61.25,409.7083,73.75,414.7083,68.75,409.7083"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="66.25" x2="653.75" y1="409.7083" y2="409.7083"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="181.25" x="81.25" y="403.6377">6. 返回更新后的评分细则
+        </text><!--MD5=[5e0fb5e9c8fa5b23e340c5b36060355e]
+@startuml
+title 基于GitHub的实验管理平台- -评分标准设置顺序图
+actor TEACHERS
+activate TEACHERS
+TEACHERS -> 课程列表:1.进入课程列表
+activate 课程列表
+课程列表 -> 课程信息:2.进入某一课程
+activate 课程信息
+
+
+课程信息 -> 服务器:3.设定评分细则
+activate 服务器
+服务器 -> 数据库存储:4. 传递评分细则
+activate 数据库存储
+数据库存储 -> 数据库存储:5. 更新评分细则
+数据库存储 -> TEACHERS:6. 返回更新后的评分细则
+deactivate 数据库存储
+deactivate 服务器
+deactivate 课程信息
+deactivate 课程列表
+deactivate TEACHERS
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

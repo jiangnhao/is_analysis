@@ -1,0 +1,22 @@
+@startuml
+title 基于GitHub的实验管理平台--评分顺序图
+actor TEACHERS
+activate TEACHERS
+TEACHERS -> 课程列表:1.进入课程列表
+activate 课程列表
+课程列表 -> 课程信息:2.进入某一课程
+activate 课程信息
+课程信息 -> 成绩列表:3.查看该课程下所有的成绩
+activate 成绩列表
+成绩列表 -> 服务器:4. 录入并提交某学生该课程对应实验的成绩
+activate 服务器
+服务器-> 数据库:5.更新成绩
+activate 数据库
+数据库 -> TEACHERS:6. 返回更新后的成绩列表
+deactivate 数据库
+deactivate 服务器
+deactivate 成绩列表
+deactivate 课程信息
+deactivate 课程列表
+deactivate TEACHERS
+@enduml

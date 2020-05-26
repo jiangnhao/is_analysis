@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="473.75px" preserveAspectRatio="none"
+     style="width:1722px;height:473px;" version="1.1" viewBox="0 0 1722 473" width="1722.5px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f1rofp8r5cd9rn" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="22.5" lengthAdjust="spacingAndGlyphs"
+              textLength="332.5" x="699.375" y="25.7849">基于GitHub的实验管理平台--类图
+        </text><!--MD5=[c0e9ec5cd1f96ff4afe02d244cdf9dea]
+class USERS-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="172.6721" id="USERS"
+              style="stroke: #A80036; stroke-width: 1.875;" width="287.5" x="7.5" y="40.7288"/>
+        <ellipse cx="119.6875" cy="60.7288" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M119.2969,68.2288 Q116.875,68.2288 115.4688,66.4514 Q114.0625,64.6545 114.0625,60.9631 Q114.0625,57.8381 115.5469,55.7288 Q117.0313,53.6194 119.6094,53.6194 Q120.1758,53.6194 120.7227,53.6194 Q121.2695,53.6194 121.6602,53.6194 Q121.9727,53.6194 122.168,53.6194 Q122.3828,53.6194 122.8906,53.6194 L123.7695,58.2288 L122.4414,58.2288 Q121.8945,56.8616 121.1719,56.2952 Q120.4688,55.7288 119.3164,55.7288 Q117.8711,55.7288 117.0117,57.2131 Q116.1719,58.678 116.1719,60.9631 Q116.1719,63.4827 116.8164,64.8108 Q117.4805,66.1194 119.2383,66.1194 Q120.3906,66.1194 121.1914,65.4163 Q122.0117,64.6936 122.4414,62.9553 L123.7305,63.5999 Q123.2422,65.7874 122.0703,67.0178 Q120.8984,68.2288 119.2969,68.2288 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="145.3125" y="67.6758">USERS
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="293.75" y1="80.7288" y2="80.7288"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="53.75" x="15" y="101.4862">USER_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="66.25" x="72.5" y="101.4862">（用户ID）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="150"
+              x="15" y="120.2649">NAME （用户真实姓名）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="250"
+              x="15" y="139.0436">GITHUB_USERNAME （用户GitHub账号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="272.5" x="15" y="157.8223">UPDATE_DATE （用户GitHub账号修改日期）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="161.25" x="15" y="176.601">PASSWORD （用户密码）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="167.5" x="15" y="195.3796">DISABLE （用户是否禁用）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="293.75" y1="203.4009" y2="203.4009"/><!--MD5=[ba37beb79786be8c6f1581f55505a7bd]
+class STUDENTS-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="135.1147" id="STUDENTS"
+              style="stroke: #A80036; stroke-width: 1.875;" width="216.25" x="339.375" y="59.4788"/>
+        <ellipse cx="401.5625" cy="79.4788" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M401.1719,86.9788 Q398.75,86.9788 397.3438,85.2014 Q395.9375,83.4045 395.9375,79.7131 Q395.9375,76.5881 397.4219,74.4788 Q398.9063,72.3694 401.4844,72.3694 Q402.0508,72.3694 402.5977,72.3694 Q403.1445,72.3694 403.5352,72.3694 Q403.8477,72.3694 404.043,72.3694 Q404.2578,72.3694 404.7656,72.3694 L405.6445,76.9788 L404.3164,76.9788 Q403.7695,75.6116 403.0469,75.0452 Q402.3438,74.4788 401.1914,74.4788 Q399.7461,74.4788 398.8867,75.9631 Q398.0469,77.428 398.0469,79.7131 Q398.0469,82.2327 398.6914,83.5608 Q399.3555,84.8694 401.1133,84.8694 Q402.2656,84.8694 403.0664,84.1663 Q403.8867,83.4436 404.3164,81.7053 L405.6055,82.3499 Q405.1172,84.5374 403.9453,85.7678 Q402.7734,86.9788 401.1719,86.9788 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="81.25"
+              x="427.1875" y="86.4258">STUDENTS
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="340.625" x2="554.375" y1="99.4788" y2="99.4788"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="346.875" y="120.2362">student_id
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="55"
+              x="424.375" y="120.2362">（学号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="91.25" x="346.875" y="139.0149">class （班级）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="148.75" x="346.875" y="157.7936">result_sum（成绩汇总）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="201.25" x="346.875" y="176.5723">web_sum （网站正确与否汇总）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="340.625" x2="554.375" y1="184.5935" y2="184.5935"/><!--MD5=[471621018d5a4ff362f603edad23fe8d]
+class TEACHERS-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="116.3361" id="TEACHERS"
+              style="stroke: #A80036; stroke-width: 1.875;" width="212.5" x="45" y="316.3538"/>
+        <ellipse cx="105.3125" cy="336.3538" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M104.9219,343.8538 Q102.5,343.8538 101.0938,342.0764 Q99.6875,340.2795 99.6875,336.5881 Q99.6875,333.4631 101.1719,331.3538 Q102.6563,329.2444 105.2344,329.2444 Q105.8008,329.2444 106.3477,329.2444 Q106.8945,329.2444 107.2852,329.2444 Q107.5977,329.2444 107.793,329.2444 Q108.0078,329.2444 108.5156,329.2444 L109.3945,333.8538 L108.0664,333.8538 Q107.5195,332.4866 106.7969,331.9202 Q106.0938,331.3538 104.9414,331.3538 Q103.4961,331.3538 102.6367,332.8381 Q101.7969,334.303 101.7969,336.5881 Q101.7969,339.1077 102.4414,340.4358 Q103.1055,341.7444 104.8633,341.7444 Q106.0156,341.7444 106.8164,341.0413 Q107.6367,340.3186 108.0664,338.5803 L109.3555,339.2249 Q108.8672,341.4124 107.6953,342.6428 Q106.5234,343.8538 104.9219,343.8538 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="81.25"
+              x="130.9375" y="343.3008">TEACHERS
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="46.25" x2="256.25" y1="356.3538" y2="356.3538"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="81.25" x="52.5" y="377.1112">TEACHER_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="137.5" y="377.1112">（老师工号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="53.75" x="52.5" y="395.8899">USER_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="66.25" x="110" y="395.8899">（用户ID）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="197.5" x="52.5" y="414.6686">DEPARTMENT （老师所属学院）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="46.25" x2="256.25" y1="422.6898" y2="422.6898"/><!--MD5=[198186f9fcc9add1803581ad2374c930]
+class COURSES-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="172.6721" id="COURSES"
+              style="stroke: #A80036; stroke-width: 1.875;" width="206.25" x="1156.875" y="288.2288"/>
+        <ellipse cx="1217.1875" cy="308.2288" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M1216.7969,315.7288 Q1214.375,315.7288 1212.9688,313.9514 Q1211.5625,312.1545 1211.5625,308.4631 Q1211.5625,305.3381 1213.0469,303.2288 Q1214.5313,301.1194 1217.1094,301.1194 Q1217.6758,301.1194 1218.2227,301.1194 Q1218.7695,301.1194 1219.1602,301.1194 Q1219.4727,301.1194 1219.668,301.1194 Q1219.8828,301.1194 1220.3906,301.1194 L1221.2695,305.7288 L1219.9414,305.7288 Q1219.3945,304.3616 1218.6719,303.7952 Q1217.9688,303.2288 1216.8164,303.2288 Q1215.3711,303.2288 1214.5117,304.7131 Q1213.6719,306.178 1213.6719,308.4631 Q1213.6719,310.9827 1214.3164,312.3108 Q1214.9805,313.6194 1216.7383,313.6194 Q1217.8906,313.6194 1218.6914,312.9163 Q1219.5117,312.1936 1219.9414,310.4553 L1221.2305,311.0999 Q1220.7422,313.2874 1219.5703,314.5178 Q1218.3984,315.7288 1216.7969,315.7288 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="75"
+              x="1242.8125" y="315.1758">COURSES
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1158.125" x2="1361.875" y1="328.2288" y2="328.2288"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="1164.375" y="348.9862">COURSE_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="1238.125" y="348.9862">（课程编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="81.25" x="1164.375" y="367.7649">TEACHER_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="110"
+              x="1245.625" y="367.7649">（授课教师工号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="178.75" x="1164.375" y="386.5436">COURSE_NAME（课程名称）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="88.75" x="1164.375" y="405.3223">TERM（学期）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="166.25" x="1164.375" y="424.101">DEPARTMENT（开课学院）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="138.75" x="1164.375" y="442.8796">NUMBER （上课人数）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1158.125" x2="1361.875" y1="450.9009" y2="450.9009"/><!--MD5=[4583650ae37b789b614faa866bb574d3]
+class SCORES-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="172.6721" id="SCORES"
+              style="stroke: #A80036; stroke-width: 1.875;" width="213.75" x="605.625" y="288.2288"/>
+        <ellipse cx="675.3125" cy="308.2288" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M674.9219,315.7288 Q672.5,315.7288 671.0938,313.9514 Q669.6875,312.1545 669.6875,308.4631 Q669.6875,305.3381 671.1719,303.2288 Q672.6563,301.1194 675.2344,301.1194 Q675.8008,301.1194 676.3477,301.1194 Q676.8945,301.1194 677.2852,301.1194 Q677.5977,301.1194 677.793,301.1194 Q678.0078,301.1194 678.5156,301.1194 L679.3945,305.7288 L678.0664,305.7288 Q677.5195,304.3616 676.7969,303.7952 Q676.0938,303.2288 674.9414,303.2288 Q673.4961,303.2288 672.6367,304.7131 Q671.7969,306.178 671.7969,308.4631 Q671.7969,310.9827 672.4414,312.3108 Q673.1055,313.6194 674.8633,313.6194 Q676.0156,313.6194 676.8164,312.9163 Q677.6367,312.1936 678.0664,310.4553 L679.3555,311.0999 Q678.8672,313.2874 677.6953,314.5178 Q676.5234,315.7288 674.9219,315.7288 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="63.75"
+              x="700.9375" y="315.1758">SCORES
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="606.875" x2="818.125" y1="328.2288" y2="328.2288"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="80" x="613.125" y="348.9862">STUDENT_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="55"
+              x="696.875" y="348.9862">（学号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="112.5" x="613.125" y="367.7649">EXAMINATION_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="729.375" y="367.7649">（实验编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="613.125" y="386.5436">COURSE_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="686.875" y="386.5436">（课程编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="107.5" x="613.125" y="405.3223">RESULT （分数）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="121.25" x="613.125" y="424.101">COMMENT （评价）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="177.5" x="613.125" y="442.8796">UPDATE_DATE （评改日期）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="606.875" x2="818.125" y1="450.9009" y2="450.9009"/><!--MD5=[52b285690190ab79dc661a0a663e95e2]
+class TESTS-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="135.1147" id="TESTS"
+              style="stroke: #A80036; stroke-width: 1.875;" width="211.25" x="869.375" y="59.4788"/>
+        <ellipse cx="945.9375" cy="79.4788" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M945.5469,86.9788 Q943.125,86.9788 941.7188,85.2014 Q940.3125,83.4045 940.3125,79.7131 Q940.3125,76.5881 941.7969,74.4788 Q943.2813,72.3694 945.8594,72.3694 Q946.4258,72.3694 946.9727,72.3694 Q947.5195,72.3694 947.9102,72.3694 Q948.2227,72.3694 948.418,72.3694 Q948.6328,72.3694 949.1406,72.3694 L950.0195,76.9788 L948.6914,76.9788 Q948.1445,75.6116 947.4219,75.0452 Q946.7188,74.4788 945.5664,74.4788 Q944.1211,74.4788 943.2617,75.9631 Q942.4219,77.428 942.4219,79.7131 Q942.4219,82.2327 943.0664,83.5608 Q943.7305,84.8694 945.4883,84.8694 Q946.6406,84.8694 947.4414,84.1663 Q948.2617,83.4436 948.6914,81.7053 L949.9805,82.3499 Q949.4922,84.5374 948.3203,85.7678 Q947.1484,86.9788 945.5469,86.9788 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="47.5"
+              x="971.5625" y="86.4258">TESTS
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="870.625" x2="1079.375" y1="99.4788" y2="99.4788"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="62.5" x="876.875" y="120.2362">TESTS_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="82.5" x="943.125" y="120.2362">（实验编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="876.875" y="139.0149">COURSE_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="954.375" y="139.0149">（课程的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="170"
+              x="876.875" y="157.7936">TESTS_NAME （实验名称）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="196.25" x="876.875" y="176.5723">TESTS_CONTENT （实验内容）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="870.625" x2="1079.375" y1="184.5935" y2="184.5935"/><!--MD5=[351141f8a607bac9a0a3a1b507527e12]
+class SCOREITEM-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="116.3361" id="SCOREITEM"
+              style="stroke: #A80036; stroke-width: 1.875;" width="226.25" x="599.375" y="68.8538"/>
+        <ellipse cx="663.4375" cy="88.8538" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M663.0469,96.3538 Q660.625,96.3538 659.2188,94.5764 Q657.8125,92.7795 657.8125,89.0881 Q657.8125,85.9631 659.2969,83.8538 Q660.7813,81.7444 663.3594,81.7444 Q663.9258,81.7444 664.4727,81.7444 Q665.0195,81.7444 665.4102,81.7444 Q665.7227,81.7444 665.918,81.7444 Q666.1328,81.7444 666.6406,81.7444 L667.5195,86.3538 L666.1914,86.3538 Q665.6445,84.9866 664.9219,84.4202 Q664.2188,83.8538 663.0664,83.8538 Q661.6211,83.8538 660.7617,85.3381 Q659.9219,86.803 659.9219,89.0881 Q659.9219,91.6077 660.5664,92.9358 Q661.2305,94.2444 662.9883,94.2444 Q664.1406,94.2444 664.9414,93.5413 Q665.7617,92.8186 666.1914,91.0803 L667.4805,91.7249 Q666.9922,93.9124 665.8203,95.1428 Q664.6484,96.3538 663.0469,96.3538 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="87.5"
+              x="689.0625" y="95.8008">SCOREITEM
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="600.625" x2="824.375" y1="108.8538" y2="108.8538"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="97.5" x="606.875" y="129.6112">SCOREITEM_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="110"
+              x="708.125" y="129.6112">（评分项的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="167.5" x="606.875" y="148.3899">SCORE（该评分项的分值）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="133.75" x="606.875" y="167.1686">RATE （评分项占比）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="600.625" x2="824.375" y1="175.1898" y2="175.1898"/><!--MD5=[c61ab8275a962744f860b3c8a5fbcc66]
+class TEACHERS_COURSES-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="135.1147" id="TEACHERS_COURSES"
+              style="stroke: #A80036; stroke-width: 1.875;" width="270" x="1125" y="59.4788"/>
+        <ellipse cx="1173" cy="79.4788" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M1172.6094,86.9788 Q1170.1875,86.9788 1168.7813,85.2014 Q1167.375,83.4045 1167.375,79.7131 Q1167.375,76.5881 1168.8594,74.4788 Q1170.3438,72.3694 1172.9219,72.3694 Q1173.4883,72.3694 1174.0352,72.3694 Q1174.582,72.3694 1174.9727,72.3694 Q1175.2852,72.3694 1175.4805,72.3694 Q1175.6953,72.3694 1176.2031,72.3694 L1177.082,76.9788 L1175.7539,76.9788 Q1175.207,75.6116 1174.4844,75.0452 Q1173.7813,74.4788 1172.6289,74.4788 Q1171.1836,74.4788 1170.3242,75.9631 Q1169.4844,77.428 1169.4844,79.7131 Q1169.4844,82.2327 1170.1289,83.5608 Q1170.793,84.8694 1172.5508,84.8694 Q1173.7031,84.8694 1174.5039,84.1663 Q1175.3242,83.4436 1175.7539,81.7053 L1177.043,82.3499 Q1176.5547,84.5374 1175.3828,85.7678 Q1174.2109,86.9788 1172.6094,86.9788 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="165"
+              x="1197" y="86.4258">TEACHERS_COURSES
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1126.25" x2="1393.75" y1="99.4788" y2="99.4788"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="81.25" x="1132.5" y="120.2362">TEACHER_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="1217.5" y="120.2362">（老师的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="1132.5" y="139.0149">COURSE_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="1210" y="139.0149">（课程的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="113.75" x="1132.5" y="157.7936">TIME （选课时间）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="255"
+              x="1132.5" y="176.5723">CHOOSE_NUMBER （选课教师人数上限）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1126.25" x2="1393.75" y1="184.5935" y2="184.5935"/><!--MD5=[ab5fb4e13121df274a311cfd763748e3]
+class STUDENTS_COURSES-->
+        <rect fill="#FEFECE" filter="url(#f1rofp8r5cd9rn)" height="116.3361" id="STUDENTS_COURSES"
+              style="stroke: #A80036; stroke-width: 1.875;" width="270" x="1438.75" y="68.8538"/>
+        <ellipse cx="1486.75" cy="88.8538" fill="#ADD1B2" rx="13.75" ry="13.75"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <path d="M1486.3594,96.3538 Q1483.9375,96.3538 1482.5313,94.5764 Q1481.125,92.7795 1481.125,89.0881 Q1481.125,85.9631 1482.6094,83.8538 Q1484.0938,81.7444 1486.6719,81.7444 Q1487.2383,81.7444 1487.7852,81.7444 Q1488.332,81.7444 1488.7227,81.7444 Q1489.0352,81.7444 1489.2305,81.7444 Q1489.4453,81.7444 1489.9531,81.7444 L1490.832,86.3538 L1489.5039,86.3538 Q1488.957,84.9866 1488.2344,84.4202 Q1487.5313,83.8538 1486.3789,83.8538 Q1484.9336,83.8538 1484.0742,85.3381 Q1483.2344,86.803 1483.2344,89.0881 Q1483.2344,91.6077 1483.8789,92.9358 Q1484.543,94.2444 1486.3008,94.2444 Q1487.4531,94.2444 1488.2539,93.5413 Q1489.0742,92.8186 1489.5039,91.0803 L1490.793,91.7249 Q1490.3047,93.9124 1489.1328,95.1428 Q1487.9609,96.3538 1486.3594,96.3538 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="165"
+              x="1510.75" y="95.8008">STUDENTS_COURSES
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1440" x2="1707.5" y1="108.8538" y2="108.8538"/>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="73.75" x="1446.25" y="129.6112">COURSE_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="1523.75" y="129.6112">（课程的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="80" x="1446.25" y="148.3899">STUDENT_ID
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs"
+              textLength="96.25" x="1530" y="148.3899">（学生的编号）
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="13.75" lengthAdjust="spacingAndGlyphs" textLength="255"
+              x="1446.25" y="167.1686">CHOOSE_NUMBER （选课学生人数上限）
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.875;" x1="1440" x2="1707.5" y1="175.1898" y2="175.1898"/><!--MD5=[5e4affbf242e1bc8b7c801ee8762ff19]
+reverse link USERS to STUDENTS-->
+        <path d="M320.4113,126.9788 C326.7125,126.9788 333.0125,126.9788 339.3125,126.9788 " fill="none"
+              id="USERS&lt;-STUDENTS" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="none" points="320.325,135.7288,295.325,126.9788,320.325,118.2288,320.325,135.7288"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[1597bbce9e6cac510e52f16228a4b405]
+reverse link USERS to TEACHERS-->
+        <path d="M151.25,238.5138 C151.25,265.3125 151.25,292.9 151.25,316.075 " fill="none" id="USERS&lt;-TEACHERS"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <polygon fill="none" points="142.5,238.23,151.25,213.23,160,238.23,142.5,238.23"
+                 style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[3f7b953e5c98d2f6ea75cd4e8a59f499]
+link SCOREITEM to SCORES-->
+        <path d="M712.5,185.67 C712.5,216.0788 712.5,254.0225 712.5,287.81 " fill="none" id="SCOREITEM-SCORES"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="703.1621" y="213.6644">n
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="703.2715" y="274.5831">1
+        </text><!--MD5=[da1b2d263dfb72d0d10b1d4b8b9a0662]
+link STUDENTS to SCORES-->
+        <path d="M519.2125,194.5288 C550.3288,223.2975 587.1563,257.345 620.2738,287.9625 " fill="none"
+              id="STUDENTS-SCORES" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="519.0901" y="223.2204">1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="600.958" y="274.7523">n
+        </text><!--MD5=[6a0805a5901997e38bac47cb250ecee4]
+link TESTS to SCORES-->
+        <path d="M903.9638,194.5288 C873.1413,223.2975 836.6612,257.345 803.8563,287.9625 " fill="none"
+              id="TESTS-SCORES" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="885.5517" y="223.2204">1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="804.6198" y="274.7523">n
+        </text><!--MD5=[659abad206c8c978586170ce29ec9972]
+link TESTS to COURSES-->
+        <path d="M1052.125,194.5288 C1085.59,223.2975 1125.1963,257.345 1160.8125,287.9625 " fill="none"
+              id="TESTS-COURSES" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1052.6961" y="223.2204">n
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1140.7354" y="274.7523">1
+        </text><!--MD5=[9b253e51f1089813ce52179fd3e98341]
+link TEACHERS_COURSES to COURSES-->
+        <path d="M1260,194.5288 C1260,223.2975 1260,257.345 1260,287.9625 " fill="none" id="TEACHERS_COURSES-COURSES"
+              style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1250.6895" y="223.2204">1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1250.7715" y="274.7523">n
+        </text><!--MD5=[87c3bfa7875504af0789c14483bbfaa6]
+link STUDENTS_COURSES to COURSES-->
+        <path d="M1500.5875,185.3613 C1459.8375,217.175 1408.45,257.3088 1363.625,292.3063 " fill="none"
+              id="STUDENTS_COURSES-COURSES" style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1480.9338" y="213.7481">1
+        </text>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="8.75" x="1373.2438" y="281.4482">n
+        </text><!--MD5=[50c53f94507e06d10a66f89d2b32d172]
+@startuml
+title 基于GitHub的实验管理平台- -类图
+class USERS {
+    <b>USER_ID</b> （用户ID）
+    NAME （用户真实姓名）
+    GITHUB_USERNAME （用户GitHub账号）
+    UPDATE_DATE （用户GitHub账号修改日期）
+    PASSWORD （用户密码）
+    DISABLE （用户是否禁用）
+}
+class STUDENTS{
+    <b>student_id</b> （学号）
+    class （班级）
+    result_sum（成绩汇总）
+    web_sum （网站正确与否汇总）
+}
+class TEACHERS{
+    <b>TEACHER_ID</b> （老师工号）
+    <b>USER_ID</b> （用户ID）
+    DEPARTMENT （老师所属学院）
+}
+
+
+class COURSES{
+    <b>COURSE_ID</b>（课程编号）
+    <b>TEACHER_ID</b>（授课教师工号）
+    COURSE_NAME（课程名称）
+    TERM（学期）
+    DEPARTMENT（开课学院）
+    NUMBER （上课人数）
+}
+class SCORES {
+    <b>STUDENT_ID</b> （学号）
+    <b>EXAMINATION_ID</b> （实验编号）
+    <b>COURSE_ID</b>（课程编号）
+    RESULT （分数）
+    COMMENT （评价）
+    UPDATE_DATE （评改日期）
+}
+
+class TESTS{
+    <b>TESTS_ID</b> （实验编号）
+    <b>COURSE_ID</b> （课程的编号）
+    TESTS_NAME （实验名称）
+    TESTS_CONTENT  （实验内容）
+}
+
+class SCOREITEM {
+    <b>SCOREITEM_ID</b> （评分项的编号）
+    SCORE（该评分项的分值）
+    RATE （评分项占比）
+
+}
+
+class TEACHERS_COURSES{
+    <b>TEACHER_ID</b> （老师的编号）
+    <b>COURSE_ID</b> （课程的编号）
+    TIME （选课时间）
+    CHOOSE_NUMBER （选课教师人数上限）
+
+}
+class STUDENTS_COURSES{
+    <b>COURSE_ID</b> （课程的编号）
+    <b>STUDENT_ID</b> （学生的编号）
+    CHOOSE_NUMBER （选课学生人数上限）
+}
+
+
+USERS <|- STUDENTS
+USERS <|- - TEACHERS
+
+SCOREITEM "n" - - "1"SCORES
+STUDENTS "1" - - "n"  SCORES
+TESTS "1" - - "n"  SCORES
+TESTS "n" - - "1" COURSES
+TEACHERS_COURSES "1" - - "n" COURSES
+STUDENTS_COURSES "1" - - "n" COURSES
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

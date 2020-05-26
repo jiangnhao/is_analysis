@@ -1,0 +1,19 @@
+@startuml
+title 基于GitHub的实验管理平台--查看成绩顺序图
+actor USERS
+activate USERS
+USERS -> 主界面: 1.用户登录
+activate 主界面
+主界面->成绩界面:2.请求查看成绩
+activate 成绩界面
+成绩界面 -> 服务器:3.请求查看成绩
+activate 服务器
+服务器-> 数据库存储:4.查询成绩
+activate 数据库存储
+数据库存储->USERS:.返回成绩
+deactivate 数据库存储
+deactivate 服务器
+deactivate 主界面
+deactivate 成绩界面
+deactivate USERS
+@enduml

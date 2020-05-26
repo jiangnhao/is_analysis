@@ -1,0 +1,20 @@
+@startuml
+title 基于GitHub的实验管理平台--学生列表顺序图
+actor TEACHERS
+activate TEACHERS
+TEACHERS -> 首页: 1.教师登录
+activate 首页
+首页->教学课程:2.选择某教学课程
+activate 教学课程
+教学课程 -> 服务器:3.请求查看学生名单
+activate 服务器
+服务器-> 数据库:4.请求查看学生名单
+activate 数据库
+数据库-> 数据库:5.查询学生名单
+数据库->TEACHERS:6.返回学生列表
+deactivate 数据库
+deactivate 服务器
+deactivate 首页
+deactivate 教学课程
+deactivate TEACHERS
+@enduml

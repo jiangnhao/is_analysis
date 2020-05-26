@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="836.25px" preserveAspectRatio="none"
+     style="width:1265px;height:836px;" version="1.1" viewBox="0 0 1265 836" width="1265px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="ffdfyhly8do50" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.5"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" font-weight="bold"
+              lengthAdjust="spacingAndGlyphs" textLength="370" x="448.125" y="32.5549">基于GitHub的实验管理平台--登陆用例的顺序图
+        </text>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="506.6229" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="25" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="506.6229" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="280" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="378.7939" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="541.25" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="235.965" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="861.25" y="274.3793"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="156.579" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="1038.75" y="314.0723"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="37.5" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="1210" y="353.7653"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="31.25" x2="31.25"
+              y1="152.8003" y2="724.1162"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="286.25" x2="286.25"
+              y1="152.8003" y2="724.1162"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="547.5" x2="547.5"
+              y1="152.8003" y2="724.1162"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="867.5" x2="867.5"
+              y1="152.8003" y2="724.1162"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="1045" x2="1045" y1="152.8003"
+              y2="724.1162"/>
+        <line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 5.0,5.0;" x1="1216.25" x2="1216.25"
+              y1="152.8003" y2="724.1162"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="10" y="148.9551">用户
+        </text>
+        <ellipse cx="31.25" cy="57.6501" fill="#FEFECE" filter="url(#ffdfyhly8do50)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M31.25,67.6501 L31.25,101.4001 M15,77.6501 L47.5,77.6501 M31.25,101.4001 L15,120.1501 M31.25,101.4001 L47.5,120.1501 "
+              fill="none" filter="url(#ffdfyhly8do50)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="35"
+              x="10" y="742.9211">用户
+        </text>
+        <ellipse cx="31.25" cy="759.2664" fill="#FEFECE" filter="url(#ffdfyhly8do50)" rx="10" ry="10"
+                 style="stroke: #A80036; stroke-width: 2.5;"/>
+        <path d="M31.25,769.2664 L31.25,803.0164 M15,779.2664 L47.5,779.2664 M31.25,803.0164 L15,821.7664 M31.25,803.0164 L47.5,821.7664 "
+              fill="none" filter="url(#ffdfyhly8do50)" style="stroke: #A80036; stroke-width: 2.5;"/>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="87.5" x="240" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="248.75" y="133.9551">登陆界面
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="87.5" x="240" y="722.8662"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="248.75" y="751.6711">登陆界面
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="87.5" x="501.25" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="510" y="133.9551">登陆管理
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="87.5" x="501.25" y="722.8662"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="510" y="751.6711">登陆管理
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="70" x="830" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="838.75" y="133.9551">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="70" x="830" y="722.8662"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="52.5"
+              x="838.75" y="751.6711">服务器
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="105" x="990" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="87.5"
+              x="998.75" y="133.9551">数据库存储
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="105" x="990" y="722.8662"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="87.5"
+              x="998.75" y="751.6711">数据库存储
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="75" x="1176.25" y="105.1501"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="57.5"
+              x="1185" y="133.9551">USERS
+        </text>
+        <rect fill="#FEFECE" filter="url(#ffdfyhly8do50)" height="41.4001" style="stroke: #A80036; stroke-width: 1.875;"
+              width="75" x="1176.25" y="722.8662"/>
+        <text fill="#000000" font-family="sans-serif" font-size="17.5" lengthAdjust="spacingAndGlyphs" textLength="57.5"
+              x="1185" y="751.6711">USERS
+        </text>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="506.6229" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="25" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="506.6229" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="280" y="194.9933"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="378.7939" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="541.25" y="234.6863"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="235.965" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="861.25" y="274.3793"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="156.579" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="1038.75" y="314.0723"/>
+        <rect fill="#FFFFFF" filter="url(#ffdfyhly8do50)" height="37.5" style="stroke: #A80036; stroke-width: 1.25;"
+              width="12.5" x="1210" y="353.7653"/>
+        <polygon fill="#A80036" points="265,189.9933,277.5,194.9933,265,199.9933,270,194.9933"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="37.5" x2="272.5" y1="194.9933" y2="194.9933"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="225"
+              x="46.25" y="188.9227">1.登录（用户名、密码、身份）
+        </text>
+        <polygon fill="#A80036" points="526.25,229.6863,538.75,234.6863,526.25,239.6863,531.25,234.6863"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="292.5" x2="533.75" y1="234.6863" y2="234.6863"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="225"
+              x="301.25" y="228.6157">2.登录（用户名、密码、身份）
+        </text>
+        <polygon fill="#A80036" points="846.25,269.3793,858.75,274.3793,846.25,279.3793,851.25,274.3793"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="553.75" x2="853.75" y1="274.3793" y2="274.3793"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="225"
+              x="562.5" y="268.3087">3.登录（用户名、密码、身份）
+        </text>
+        <polygon fill="#A80036" points="1023.75,309.0723,1036.25,314.0723,1023.75,319.0723,1028.75,314.0723"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="873.75" x2="1031.25" y1="314.0723" y2="314.0723"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="78.75" x="882.5" y="308.0017">4.查找用户
+        </text>
+        <polygon fill="#A80036" points="1195,348.7653,1207.5,353.7653,1195,358.7653,1200,353.7653"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="1051.25" x2="1202.5" y1="353.7653" y2="353.7653"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="135"
+              x="1060" y="347.6947">5.获取USERS对象
+        </text>
+        <polygon fill="#A80036" points="1065,425.9583,1052.5,430.9583,1065,435.9583,1060,430.9583"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="1057.5" x2="1215" y1="430.9583" y2="430.9583"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="135"
+              x="1072.5" y="424.8877">6.返回USERS对象
+        </text>
+        <polygon fill="#A80036" points="887.5,465.6512,875,470.6512,887.5,475.6512,882.5,470.6512"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="880" x2="1043.75" y1="470.6512" y2="470.6512"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="135"
+              x="895" y="464.5807">7.返回USERS对象
+        </text>
+        <polygon fill="#A80036" points="567.5,505.3442,555,510.3442,567.5,515.3442,562.5,510.3442"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="560" x2="866.25" y1="510.3442" y2="510.3442"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="135"
+              x="575" y="504.2737">8.返回USERS对象
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="553.75" x2="606.25" y1="550.0372" y2="550.0372"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="606.25" x2="606.25" y1="550.0372" y2="566.2872"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="555" x2="606.25" y1="566.2872" y2="566.2872"/>
+        <polygon fill="#A80036" points="567.5,561.2872,555,566.2872,567.5,571.2872,562.5,566.2872"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="200"
+              x="562.5" y="543.9667">9.判断USERS对象是否为空
+        </text>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="553.75" x2="606.25" y1="612.2302" y2="612.2302"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="606.25" x2="606.25" y1="612.2302" y2="628.4802"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="547.5" x2="606.25" y1="628.4802" y2="628.4802"/>
+        <polygon fill="#A80036" points="560,623.4802,547.5,628.4802,560,633.4802,555,628.4802"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="290"
+              x="562.5" y="606.1597">10.判断USERS对象密码、身份是否正确
+        </text>
+        <polygon fill="#A80036" points="306.25,656.9232,293.75,661.9232,306.25,666.9232,301.25,661.9232"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="298.75" x2="546.25" y1="661.9232" y2="661.9232"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="143.75" x="313.75" y="655.8527">11.返回USERS对象
+        </text>
+        <polygon fill="#A80036" points="45,696.6162,32.5,701.6162,45,706.6162,40,701.6162"
+                 style="stroke: #A80036; stroke-width: 1.25;"/>
+        <line style="stroke: #A80036; stroke-width: 1.25;" x1="37.5" x2="285" y1="701.6162" y2="701.6162"/>
+        <text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs"
+              textLength="136.25" x="52.5" y="695.5457">12.返回对应主界面
+        </text><!--MD5=[e6ea0218e41db6aa64d3fa797647008b]
+@startuml
+title 基于GitHub的实验管理平台- -登陆用例的顺序图
+actor 用户
+用户 -> 登陆界面:1.登录（用户名、密码、身份）
+activate 用户
+activate 登陆界面
+登陆界面 -> 登陆管理: 2.登录（用户名、密码、身份）
+activate 登陆管理
+登陆管理 -> 服务器:3.登录（用户名、密码、身份）
+activate 服务器
+服务器-> 数据库存储:4.查找用户
+activate 数据库存储
+数据库存储-> USERS:5.获取USERS对象
+activate USERS
+deactivate USERS
+USERS -> 数据库存储:6.返回USERS对象
+数据库存储->服务器:7.返回USERS对象
+deactivate 数据库存储
+
+服务器->登陆管理:8.返回USERS对象
+deactivate 服务器
+
+登陆管理->登陆管理:9.判断USERS对象是否为空
+登陆管理->登陆管理:10.判断USERS对象密码、身份是否正确
+deactivate 登陆管理
+登陆管理->登陆界面:11.返回USERS对象
+
+
+登陆界面->用户:12.返回对应主界面
+deactivate 登陆界面
+deactivate 用户
+
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 CST 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.38
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+-->
+    </g>
+</svg>

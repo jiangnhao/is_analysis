@@ -1,0 +1,33 @@
+@startuml
+title 基于GitHub的实验管理平台--登陆用例的顺序图
+actor 用户
+用户 -> 登陆界面:1.登录（用户名、密码、身份）
+activate 用户
+activate 登陆界面
+登陆界面 -> 登陆管理: 2.登录（用户名、密码、身份）
+activate 登陆管理
+登陆管理 -> 服务器:3.登录（用户名、密码、身份）
+activate 服务器
+服务器-> 数据库存储:4.查找用户
+activate 数据库存储
+数据库存储-> USERS:5.获取USERS对象
+activate USERS
+deactivate USERS
+USERS -> 数据库存储:6.返回USERS对象
+数据库存储->服务器:7.返回USERS对象
+deactivate 数据库存储
+
+服务器->登陆管理:8.返回USERS对象
+deactivate 服务器
+
+登陆管理->登陆管理:9.判断USERS对象是否为空
+登陆管理->登陆管理:10.判断USERS对象密码、身份是否正确
+deactivate 登陆管理
+登陆管理->登陆界面:11.返回USERS对象
+
+
+登陆界面->用户:12.返回对应主界面
+deactivate 登陆界面
+deactivate 用户
+
+@enduml
